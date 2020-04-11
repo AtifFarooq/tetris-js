@@ -1,5 +1,5 @@
 # tetris-js
-An implementation of the classic arcade game Tetris in vanilla JavaScript using the HTML5 canvas.
+An implementation of the classic arcade game Tetris in vanilla JavaScript using the HTML5 canvas. Q and W keys to rotate the pieces.
 
 ![alt text](https://raw.githubusercontent.com/AtifFarooq/tetris-js/master/thumbnail.jpg)
 
